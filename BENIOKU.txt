@@ -1,0 +1,19 @@
+Proje dosyaları "proje" klasörü içindedir.
+
+Kurulum için;
+
+PHP Sürümü 8.4.0 veya üstü olmalıdır. (8.4.0 de kodlanmış ve test edilmiştir.)
+
+Gerekli PHP eklentileri aşağıdadır. 
+[ mbstring pdo_mysql mysqli openssl curl fileinfo tokenizer ctype xml dom gd ]
+Bu eklentiler olmadan eksik veya hatalı çalışabilir.
+
+Kurulum Talimatı:
+
+Bir veritabanı oluşturun, kullanıcı oluşturun ve veritabanıyla kullanıcıyı bağlayarak tüm yetkileri verin.
+Ana dizinde bulunan .env dosyasına site linkinizi ve veritabanı bilgilerinizi girip kaydedin. (5. , 27. , 28. , 29. satırlar)
+Veritabanınıza dizinde bulunan veritabani.sql dosyasını içe aktarın.
+Siteyi ziyaret edin ve aşağıda ki bilgiler ile giriş yaptıktan sonra şifrenizi ve e-posta adresinizi değiştirin.
+E-Posta: test@gmail.com Şifre: 12345678
+
+Demo Adresi: https://paynest.forcescripts.com Demo bilgileri yukarıda ki bilgiler ile aynıdır.
